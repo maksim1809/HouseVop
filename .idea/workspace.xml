@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d93486d-0f98-4c8b-826f-896edb5c9902" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lrzjkhjOdQ6g770PgsHSXoBy9K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\HouseVop\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\HouseVop\image\numeral" />
+      <recent name="C:\Users\user\Desktop\HouseVop\image\background" />
+      <recent name="C:\Users\user\Desktop\HouseVop\image\icon" />
+      <recent name="C:\Users\user\Desktop\HouseVop\style" />
+      <recent name="C:\Users\user\Desktop\HouseVop\fonts" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d93486d-0f98-4c8b-826f-896edb5c9902" name="Default Changelist" comment="" />
+      <created>1608370134231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608370134231</updated>
+      <workItem from="1608370135953" duration="4254000" />
+      <workItem from="1608380123328" duration="878000" />
+      <workItem from="1608437339851" duration="28146000" />
+      <workItem from="1608531629694" duration="1512000" />
+      <workItem from="1608552626241" duration="1256000" />
+      <workItem from="1608558728045" duration="885000" />
+      <workItem from="1608563356133" duration="12679000" />
+      <workItem from="1608606167428" duration="16456000" />
+      <workItem from="1608629008824" duration="5006000" />
+      <workItem from="1608783306090" duration="2000" />
+      <workItem from="1608783325827" duration="19233000" />
+      <workItem from="1608890548277" duration="66000" />
+      <workItem from="1608898018735" duration="216000" />
+      <workItem from="1608905392954" duration="132000" />
+      <workItem from="1608969225252" duration="12303000" />
+      <workItem from="1609043012154" duration="20936000" />
+      <workItem from="1609137207333" duration="4168000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608785897556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608785897556" />
+    <state x="317" y="142" key="EditFileWatcherDialog" timestamp="1608370297994">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1608370297994" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608381008192">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608381008192" />
+  </component>
+</project>

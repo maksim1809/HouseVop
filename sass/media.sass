@@ -1,0 +1,175 @@
+@media (max-width: 991px)
+  .container
+    margin: 0 auto
+    width: 100%
+    padding: 0 15px
+  .loft
+    &__content
+      flex-direction: column
+      align-items: center
+  .look-form
+    &__content
+      padding: 0 0 0 80px
+    &__form-block
+      padding: 0 0 0 80px
+  .form
+    &__content
+      display: block
+@media (max-width: 767px)
+  .container
+    margin: 0 auto
+    width: 100%
+    padding: 0 15px
+  .header
+    .menu
+      &_item
+        margin-left: 20px
+  .look-form
+    &__content
+      padding: 0 0 0 50px
+    &__form-block
+      padding: 0 0 0 30px
+  .form
+    &__content
+      display: flex
+      align-items: center
+      flex-direction: column
+    &__name
+      margin: 0 0 20px 0
+    form
+      label
+        display: block
+  .map
+    &__yandex
+      display: none
+    &__yandex2
+      display: block
+@media (max-width: 575px)
+  .header
+    &__content
+      padding: 0
+    &__logo
+      margin-top: 30px
+    .menu
+      display: flex
+      flex-direction: column
+      position: fixed
+      z-index: 5
+      left: -100%
+      background: rgba(0,0,0,.6)
+      height: 100vh
+      width: 50%
+      justify-content: center
+      align-items: center
+      transition: .6s all
+      &_active
+        left: 0
+        transition: .6s all
+    .burger
+      display: block
+      position: absolute
+      width: 20px
+      height: 20px
+      top: 15px
+      right: 10px
+      span
+        display: block
+        height: 2px
+        background: #ffffff
+        margin-top: 5px
+        transition: .3s all
+      &_active
+        top: 30px
+        span
+          margin-top: -2px
+          &:nth-child(1)
+            transform: rotate(-45deg)
+          &:nth-child(2)
+            display: none
+          &:nth-child(3)
+            transform: rotate(45deg)
+  .intro
+    &__data
+      justify-content: space-around
+    &__title
+       font-size: 40px
+  .attractions
+    &__content
+      flex-wrap: wrap
+    &__item
+      margin-bottom: 20px
+  .loft
+    &__item1
+      margin: 0 0 30px 0
+    &__item2
+      margin: 0 0 30px 0
+  .look-form
+    &__content
+      padding: 0 0 0 10px
+    &__info
+      padding: 20px 0 0 0
+    &__form-block
+      padding: 0 0 0 10px
+  .video
+    &__block
+      width: 500px
+      iframe
+        width: 500px
+        height: 270px
+  .footer
+    &__nav-block2
+      display: none
+@media (max-width: 359px)
+  .intro
+    &__title
+      font-size: 30px
+    &__data
+      flex-direction: column
+      align-items: center
+    &__link
+      margin-bottom: 15px
+  .loft
+    &__content
+      flex-wrap: nowrap
+    &__item1
+      width: 350px
+      height: 220px
+    &__item2
+      width: 350px
+      height: 220px
+  .look-form
+    &__title
+      padding-top: 30px
+    &__content
+      flex-direction: column
+    &__item
+      width: 100%
+    &__info
+      font-size: 10px
+      padding: 0
+    &__btn
+      margin: 0
+    &__name
+      margin: 0 0 10px 0
+  .video
+    min-height: 430px
+    &__block
+      width: 325px
+      padding-top: 115px
+      iframe
+        width: 325px
+        height: 215px
+  .map
+    min-height: 500px
+    &__title
+      padding-top: 50px
+    &__yandex2
+      display: none
+    &__yandex3
+      display: block
+  .footer
+    &__content
+      flex-direction: column
+      align-items: center
+    &__item
+      margin-bottom: 15px
