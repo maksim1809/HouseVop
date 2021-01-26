@@ -12,6 +12,9 @@
       padding: 0 0 0 80px
     &__form-block
       padding: 0 0 0 80px
+  .video
+    &__number-img
+      right: -15px
   .form
     &__content
       display: block
@@ -89,6 +92,8 @@
           &:nth-child(3)
             transform: rotate(45deg)
   .intro
+    &__inner
+      width: 100%
     &__data
       justify-content: space-around
     &__title
@@ -137,6 +142,9 @@
     &__item2
       width: 350px
       height: 220px
+    &__number-img
+      img
+        width: 345px
   .look-form
     &__title
       padding-top: 30px
@@ -173,3 +181,32 @@
       align-items: center
     &__item
       margin-bottom: 15px
+@media (max-width: 320px)
+  .container
+    padding: 0 5px
+  .loft
+    &__item1
+      width: 318px
+    &__item2
+      width: 318px
+    &__number-img
+      left: 0
+      img
+        width: 318px
+  .video
+    min-height: 430px
+    &__block
+      width: 310px
+      padding-top: 80px
+      iframe
+        width: 310px
+        height: 200px
+    &__number-img
+      right: 0
+      img
+        width: 318px
+  .map
+    &__yandex3
+      display: none
+    &__yandex4
+      display: block
