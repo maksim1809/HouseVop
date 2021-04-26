@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1d93486d-0f98-4c8b-826f-896edb5c9902" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/general.sass" beforeDir="false" afterPath="$PROJECT_DIR$/sass/general.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/media.sass" beforeDir="false" afterPath="$PROJECT_DIR$/sass/media.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/general.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
     </list>
@@ -35,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../React" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -82,7 +79,22 @@
       <workItem from="1609762255789" duration="27000" />
       <workItem from="1610027579453" duration="255000" />
       <workItem from="1610898863654" duration="1205000" />
-      <workItem from="1611636293828" duration="5944000" />
+      <workItem from="1611636293828" duration="6540000" />
+      <workItem from="1611732201600" duration="40000" />
+      <workItem from="1612254921632" duration="279000" />
+      <workItem from="1613625294929" duration="84000" />
+      <workItem from="1613625479546" duration="164000" />
+      <workItem from="1614410426995" duration="782000" />
+      <workItem from="1614437549398" duration="1154000" />
+      <workItem from="1614438778709" duration="165000" />
+      <workItem from="1614445949617" duration="580000" />
+      <workItem from="1614692352651" duration="5204000" />
+      <workItem from="1614698227633" duration="1273000" />
+      <workItem from="1614753460975" duration="2872000" />
+      <workItem from="1614758446555" duration="2544000" />
+      <workItem from="1614773689653" duration="69000" />
+      <workItem from="1614834338035" duration="3575000" />
+      <workItem from="1614841945132" duration="5015000" />
     </task>
     <servers />
   </component>
@@ -90,17 +102,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="437" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614692436850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1614692436850" />
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608785897556">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608785897556" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1614842007129">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1614842007129" />
     <state x="317" y="142" key="EditFileWatcherDialog" timestamp="1608370297994">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1608370297994" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608381008192">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1614773757332">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608381008192" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614773757332" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1614842425132">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1614842425132" />
   </component>
 </project>
